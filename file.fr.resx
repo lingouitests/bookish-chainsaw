@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <data name="five_1">
+    <value><![CDATA[cinq]]></value>
+  </data>
+  <data name="year_3">
+    <value><![CDATA[annÃ©e]]></value>
+  </data>
+  <data name="bear_5">
+    <value><![CDATA[ours]]></value>
+  </data>
+  <data name="sheep_6">
+    <value><![CDATA[mouton]]></value>
+  </data>
+  <data name="giraffe_7">
+    <value><![CDATA[girafe]]></value>
+  </data>
+  <data name="monday_4">
+    <value><![CDATA[lundi]]></value>
+  </data>
+  <data name="tuesday_9">
+    <value><![CDATA[mardi]]></value>
+  </data>
+  <data name="next_10">
+    <value><![CDATA[suivant]]></value>
+  </data>
+  <data name="HALLOWEE_11">
+    <value><![CDATA[HALLOWEEN]]></value>
+  </data>
+</root>
