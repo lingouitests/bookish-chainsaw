@@ -11,4 +11,31 @@
     <data name="WelcomeMessage" xml:space="preserve">
         <value>[Ŵéļçöɱé ţö öûŕ çööļ åþþļîçåţîöñ!------------ П國カ내]</value>
     </data>
+  <data name="pref_wednesda_1">
+    <value><![CDATA[[ŵéðñéšðåý----------- П國カ내]]]></value>
+  </data>
+  <data name="pref_nine_2">
+    <value><![CDATA[[ñîñé- П國カ내]]]></value>
+  </data>
+  <data name="pref_newgamma_4">
+    <value><![CDATA[[ñéŵĝåɱɱå--------- П國カ내]]]></value>
+  </data>
+  <data name="pref_trigger_5">
+    <value><![CDATA[[ţŕîĝĝéŕ------- П國カ내]]]></value>
+  </data>
+  <data name="pref_sunday_6">
+    <value><![CDATA[[šûñðåý----- П國カ내]]]></value>
+  </data>
+  <data name="pref_bear_7">
+    <value><![CDATA[[ƀéåŕ- П國カ내]]]></value>
+  </data>
+  <data name="pref_computer_8">
+    <value><![CDATA[[çöɱþûţéŕ--------- П國カ내]]]></value>
+  </data>
+  <data name="pref_four_9">
+    <value><![CDATA[[ƒöûŕ- П國カ내]]]></value>
+  </data>
+  <data name="pref_trytwo_3">
+    <value><![CDATA[[ţŕý ţŵö------- П國カ내]]]></value>
+  </data>
 </root>
