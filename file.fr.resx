@@ -41,4 +41,10 @@
   <data name="pref_newgamma_4">
     <value><![CDATA[nouveau gamma]]></value>
   </data>
+  <data name="pref_sheep_13">
+    <value><![CDATA[mouton]]></value>
+  </data>
+  <data name="pref_year_15">
+    <value><![CDATA[annÃ©e]]></value>
+  </data>
 </root>
