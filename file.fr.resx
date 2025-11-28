@@ -1,9 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <root>
   <data name="pref_trigger_2">
-    <value><![CDATA[dÃ©clencheur]]></value>
+    <value><![CDATA[déclencheur]]></value>
   </data>
   <data name="pref_newgamma_3">
     <value><![CDATA[nouveau gamma]]></value>
+  </data>
+  <data name="pref_seven_1">
+    <value><![CDATA[sept]]></value>
   </data>
 </root>
