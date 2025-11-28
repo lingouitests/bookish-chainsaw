@@ -1,30 +1,41 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <root>
-  <data name="pref_trigger_5">
-    <value><![CDATA[déclencheur]]></value>
-  </data>
-  <data name="pref_sunday_6">
-    <value><![CDATA[dimanche]]></value>
-  </data>
-  <data name="pref_four_9">
-    <value><![CDATA[quatre]]></value>
-  </data>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>2.0</value>
+    </resheader>
+    
+    <!-- Simple string resource -->
+    <data name="WelcomeMessage" xml:space="preserve">
+        <value>Bienvenue sur notre application géniale !</value>
+    </data>
   <data name="pref_wednesda_1">
     <value><![CDATA[mercredi matin]]></value>
   </data>
   <data name="pref_nine_2">
     <value><![CDATA[clous de neuf pouces]]></value>
   </data>
-  <data name="pref_book_10">
-    <value><![CDATA[réserver]]></value>
+  <data name="pref_trigger_5">
+    <value><![CDATA[déclencheur]]></value>
   </data>
-  <data name="pref_computer_8">
-    <value><![CDATA[ordinateur]]></value>
+  <data name="pref_sunday_6">
+    <value><![CDATA[dimanche]]></value>
   </data>
   <data name="pref_bear_7">
     <value><![CDATA[ours]]></value>
   </data>
+  <data name="pref_computer_8">
+    <value><![CDATA[ordinateur]]></value>
+  </data>
+  <data name="pref_four_9">
+    <value><![CDATA[quatre]]></value>
+  </data>
   <data name="pref_trytwo_3">
     <value><![CDATA[essayez-en deux]]></value>
+  </data>
+  <data name="pref_book_10">
+    <value><![CDATA[réserver]]></value>
   </data>
 </root>
