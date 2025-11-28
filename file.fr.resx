@@ -56,4 +56,7 @@
   <data name="pref_tuesday_17">
     <value><![CDATA[mardi]]></value>
   </data>
+  <data name="pref_question_19">
+    <value><![CDATA[question]]></value>
+  </data>
 </root>
