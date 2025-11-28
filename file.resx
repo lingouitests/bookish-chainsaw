@@ -50,4 +50,10 @@
   <data name="trigger_13">
     <value><![CDATA[trigger]]></value>
   </data>
+  <data name="and_14">
+    <value><![CDATA[and]]></value>
+  </data>
+  <data name="or_15">
+    <value><![CDATA[or]]></value>
+  </data>
 </root>
