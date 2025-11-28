@@ -41,4 +41,25 @@
   <data name="pref_book_10">
     <value><![CDATA[10943.108759 book]]></value>
   </data>
+  <data name="pref_dog_11">
+    <value><![CDATA[10943.108767 dog]]></value>
+  </data>
+  <data name="pref_elephant_12">
+    <value><![CDATA[10943.108768 elephant]]></value>
+  </data>
+  <data name="pref_sheep_13">
+    <value><![CDATA[10943.108769 sheep]]></value>
+  </data>
+  <data name="pref_giraffe_14">
+    <value><![CDATA[10943.108770 giraffe]]></value>
+  </data>
+  <data name="pref_year_15">
+    <value><![CDATA[10943.108771 year]]></value>
+  </data>
+  <data name="pref_monday_16">
+    <value><![CDATA[10943.108772 monday]]></value>
+  </data>
+  <data name="pref_tuesday_17">
+    <value><![CDATA[10943.108773 tuesday]]></value>
+  </data>
 </root>
