@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <data name="pref_seven_1">
+    <value><![CDATA[sept]]></value>
+  </data>
+  <data name="pref_trigger_2">
+    <value><![CDATA[dÃ©clencheur]]></value>
+  </data>
+  <data name="pref_newgamma_3">
+    <value><![CDATA[nouveau gamma]]></value>
+  </data>
+  <data name="pref_newstrin_4">
+    <value><![CDATA[nouvelle chaÃ®ne]]></value>
+  </data>
+  <data name="pref_check_5">
+    <value><![CDATA[cheque]]></value>
+  </data>
+  <data name="pref_five_6">
+    <value><![CDATA[cinq]]></value>
+  </data>
+  <data name="pref_dog_7">
+    <value><![CDATA[chien]]></value>
+  </data>
+</root>
