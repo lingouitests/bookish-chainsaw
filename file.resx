@@ -23,4 +23,7 @@
   <data name="pref_newstrin_4">
     <value><![CDATA[new string]]></value>
   </data>
+  <data name="pref_check_5">
+    <value><![CDATA[check]]></value>
+  </data>
 </root>
