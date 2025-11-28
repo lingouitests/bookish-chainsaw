@@ -14,7 +14,7 @@
     <value><![CDATA[chien]]></value>
   </data>
   <data name="year_3">
-    <value><![CDATA[annÃ©e]]></value>
+    <value><![CDATA[année]]></value>
   </data>
   <data name="bear_5">
     <value><![CDATA[ours]]></value>
@@ -36,5 +36,11 @@
   </data>
   <data name="HALLOWEE_11">
     <value><![CDATA[HALLOWEEN]]></value>
+  </data>
+  <data name="sunday_12">
+    <value><![CDATA[dimanche]]></value>
+  </data>
+  <data name="trigger_13">
+    <value><![CDATA[dÃ©clencheur]]></value>
   </data>
 </root>

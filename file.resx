@@ -44,4 +44,10 @@
   <data name="HALLOWEE_11">
     <value><![CDATA[HALLOWEEN]]></value>
   </data>
+  <data name="sunday_12">
+    <value><![CDATA[sunday]]></value>
+  </data>
+  <data name="trigger_13">
+    <value><![CDATA[trigger]]></value>
+  </data>
 </root>
