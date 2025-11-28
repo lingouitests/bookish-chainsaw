@@ -38,4 +38,7 @@
   <data name="pref_book_10">
     <value><![CDATA[réserver]]></value>
   </data>
+  <data name="pref_newgamma_4">
+    <value><![CDATA[nouveau gamma]]></value>
+  </data>
 </root>
