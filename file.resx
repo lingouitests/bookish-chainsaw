@@ -38,4 +38,7 @@
   <data name="pref_trytwo_3">
     <value><![CDATA[try two]]></value>
   </data>
+  <data name="pref_book_10">
+    <value><![CDATA[book]]></value>
+  </data>
 </root>
