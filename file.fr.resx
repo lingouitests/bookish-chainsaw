@@ -43,4 +43,13 @@
   <data name="trigger_13">
     <value><![CDATA[déclencheur]]></value>
   </data>
+  <data name="or_15">
+    <value><![CDATA[ou]]></value>
+  </data>
+  <data name="sendall1_17">
+    <value><![CDATA[envoyez les 123]]></value>
+  </data>
+  <data name="cat_18">
+    <value><![CDATA[chat]]></value>
+  </data>
 </root>
