@@ -56,4 +56,13 @@
   <data name="or_15">
     <value><![CDATA[or]]></value>
   </data>
+  <data name="check041_16">
+    <value><![CDATA[check 0411]]></value>
+  </data>
+  <data name="sendall1_17">
+    <value><![CDATA[send all 123]]></value>
+  </data>
+  <data name="cat_18">
+    <value><![CDATA[cat]]></value>
+  </data>
 </root>
