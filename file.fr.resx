@@ -45,6 +45,12 @@
     <value><![CDATA[mouton]]></value>
   </data>
   <data name="pref_year_15">
-    <value><![CDATA[annÃ©e]]></value>
+    <value><![CDATA[année]]></value>
+  </data>
+  <data name="pref_giraffe_14">
+    <value><![CDATA[girafe]]></value>
+  </data>
+  <data name="pref_monday_16">
+    <value><![CDATA[lundi]]></value>
   </data>
 </root>
