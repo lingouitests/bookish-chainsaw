@@ -11,25 +11,5 @@
     <data name="WelcomeMessage" xml:space="preserve">
         <value>Welcome to our cool application!</value>
     </data>
-  <data name="pref_seven_1">
-    <value><![CDATA[seven]]></value>
-  </data>
-  <data name="pref_trigger_2">
-    <value><![CDATA[trigger]]></value>
-  </data>
-  <data name="pref_newgamma_3">
-    <value><![CDATA[newgamma]]></value>
-  </data>
-  <data name="pref_newstrin_4">
-    <value><![CDATA[new string]]></value>
-  </data>
-  <data name="pref_check_5">
-    <value><![CDATA[check]]></value>
-  </data>
-  <data name="pref_five_6">
-    <value><![CDATA[five]]></value>
-  </data>
-  <data name="pref_dog_7">
-    <value><![CDATA[dog]]></value>
-  </data>
+
 </root>
