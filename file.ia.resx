@@ -11,4 +11,31 @@
     <data name="WelcomeMessage" xml:space="preserve">
         <value>10943.108739 Welcome to our cool application!</value>
     </data>
+  <data name="pref_wednesda_1">
+    <value><![CDATA[10943.108749 wednesday]]></value>
+  </data>
+  <data name="pref_nine_2">
+    <value><![CDATA[10943.108750 nine]]></value>
+  </data>
+  <data name="pref_newgamma_4">
+    <value><![CDATA[10943.108751 newgamma]]></value>
+  </data>
+  <data name="pref_trigger_5">
+    <value><![CDATA[10943.108752 trigger]]></value>
+  </data>
+  <data name="pref_sunday_6">
+    <value><![CDATA[10943.108753 sunday]]></value>
+  </data>
+  <data name="pref_bear_7">
+    <value><![CDATA[10943.108754 bear]]></value>
+  </data>
+  <data name="pref_computer_8">
+    <value><![CDATA[10943.108755 computer]]></value>
+  </data>
+  <data name="pref_four_9">
+    <value><![CDATA[10943.108756 four]]></value>
+  </data>
+  <data name="pref_trytwo_3">
+    <value><![CDATA[10943.108757 try two]]></value>
+  </data>
 </root>
