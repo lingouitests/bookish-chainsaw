@@ -1,7 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <root>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>2.0</value>
+    </resheader>
+    
   <data name="five_1">
     <value><![CDATA[cinq]]></value>
+  </data>
+  <data name="dog_2">
+    <value><![CDATA[chien]]></value>
   </data>
   <data name="year_3">
     <value><![CDATA[annÃ©e]]></value>
