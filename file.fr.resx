@@ -53,4 +53,7 @@
   <data name="pref_monday_16">
     <value><![CDATA[lundi]]></value>
   </data>
+  <data name="pref_tuesday_17">
+    <value><![CDATA[mardi]]></value>
+  </data>
 </root>
