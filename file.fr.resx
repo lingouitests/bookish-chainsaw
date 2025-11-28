@@ -12,4 +12,7 @@
   <data name="pref_check_5">
     <value><![CDATA[cheque]]></value>
   </data>
+  <data name="pref_newstrin_4">
+    <value><![CDATA[nouvelle chaÃ®ne]]></value>
+  </data>
 </root>
